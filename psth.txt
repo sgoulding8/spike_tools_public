@@ -1,0 +1,226 @@
+Starting to estimate PSTH
+INFO:root:(22000, 2, 30)
+malizers/monkeys/pico/intanproc
+DEBUG:root:pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+/braintree/data2/active/users/sgouldin/projects/normalizers/monkeys/pico/intanproc
+DEBUG:root:pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+/braintree/data2/active/users/sgouldin/projects/normalizers/monkeys/pico/intanproc
+DEBUG:root:pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+/braintree/data2/active/users/sgouldin/projects/normalizers/monkeys/pico/intanproc
+DEBUG:root:pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+/braintree/data2/active/users/sgouldin/projects/normalizers/monkeys/pico/intanproc
+DEBUG:root:pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+/braintree/data2/active/users/sgouldin/projects/normalizers/monkeys/pico/intanproc
+DEBUG:root:pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+/braintree/data2/active/users/sgouldin/projects/normalizers/monkeys/pico/intanproc
+DEBUG:root:pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+/braintree/data2/active/users/sgouldin/projects/normalizers/monkeys/pico/intanproc
+DEBUG:root:pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+/braintree/data2/active/users/sgouldin/projects/normalizers/monkeys/pico/intanproc
+DEBUG:root:pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+1
+1
+pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+INFO:root:Using photodiode signal for sample on time
+1
+1
+pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+INFO:root:Using photodiode signal for sample on/braintree/data2/active/users/sgouldin/projects/normalizers/monkeys/pico/intanproc
+DEBUG:root:pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+/braintree/data2/active/users/sgouldin/projects/normalizers/monkeys/pico/intanproc
+DEBUG:root:pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+1
+1
+pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+INFO:root:Using photodiode signal for sample on time
+DEBUG:root:amp-F-004
+/braintree/data2/active/users/sgouldin/projects/normalizers/monkeys/pico/intanproc
+DEBUG:root:pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+/braintree/data2/active/users/sgouldin/projects/normalizers/monkeys/pico/intanproc
+DEBUG:root:pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+1
+1
+pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+INFO:root:Using photodiode signal for sample on time
+DEBUG:root:amp-F-007
+1
+1
+pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+INFO:root:Using photodiode signal for sample on time
+1
+1
+pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+INFO:root:Using photodiode signal for sample on time
+DEBUG:root:amp-F-010
+DEBUG:root:amp-F-009
+/braintree/data2/active/users/sgouldin/projects/normalizers/monkeys/pico/intanproc
+DEBUG:root:pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+/braintree/data2/active/users/sgouldin/projects/normalizers/monkeys/pico/intanproc
+DEBUG:root:pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+/braintree/data2/active/users/sgouldin/projects/normalizers/monkeys/pico/intanproc
+DEBUG:root:pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+/braintree/data2/active/users/sgouldin/projects/normalizers/monkeys/pico/intanproc
+DEBUG:root:pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+/braintree/data2/active/users/sgouldin/projects/normalizers/monkeys/pico/intanproc
+DEBUG:root:pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+/braintree/data2/active/users/sgouldin/projects/normalizers/monkeys/pico/intanproc
+DEBUG:root:pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+/braintree/data2/active/users/sgouldin/projects/normalizers/monkeys/pico/intanproc
+DEBUG:root:pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+normalizers/monkeys/pico/intanproc
+DEBUG:root:pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+/braintree/data2/active/users/sgouldin/projects/normalizers/monkeys/pico/intanproc
+DEBUG:root:pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+1
+1
+pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+INFO:root:Using photodiode signal for sample on time
+1
+1
+pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+INFO:root:Using photodiode signal for sample on time
+1
+1
+pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+INFO:root:Using photodiode signal for sample on time
+1
+1
+pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+INFO:root:Using photodiode signal for sample on time
+DEBUG:root:amp-B-025
+DEBUG:root:amp-B-023
+DEBUG:root:amp-B-026
+DEBUG:root:amp-B-024
+/braintree/data2/active/users/sgouldin/projects/normalizers/monkeys/pico/intanproc
+DEBUG:root:pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+1
+1
+pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+INFO:root:Using photodiode signal for sample on time
+DEBUG:root:amp-E-026
+/braintree/data2/active/users/sgouldin/projects/normalizers/monkeys/pico/intanproc
+DEBUG:root:pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+/braintree/data2/active/users/sgouldin/projects/normalizers/monkeys/pico/intanproc
+DEBUG:root:pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+/braintree/data2/active/users/sgouldin/projects/normalizers/monkeys/pico/intanproc
+DEBUG:root:pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+/braintree/data2/active/users/sgouldin/projects/normalizers/monkeys/pico/intanproc
+DEBUG:root:pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+/braintree/data2/active/users/sgouldin/projects/normalizers/monkeys/pico/intanproc
+DEBUG:root:pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+/braintree/data2/active/users/sgouldin/projects/normalizers/monkeys/pico/intanproc
+DEBUG:root:pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+/braintree/data2/active/users/sgouldin/projects/normalizers/monkeys/pico/intanproc
+DEBUG:root:pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+/braintree/data2/active/users/sgouldin/projects/normalizers/monkeys/pico/intanproc
+DEBUG:root:pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+/braintree/data2/active/users/sgouldin/projects/normalizers/monkeys/pico/intanproc
+DEBUG:root:pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+1
+1
+pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+INFO:root:Using photodiode signal for sample on time
+1
+1
+pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+INFO:root:Using photodiode signal for sample on time
+DEBUG:root:amp-E-005
+DEBUG:root:amp-E-003
+1
+1
+pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+INFO:root:Using photodiode signal for sample on time
+1
+1
+pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+INFO:root:Using photodiode signal for sample on time
+1
+1
+pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+INFO:root:Using photodiode signal for sample on time
+1
+1
+pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+INFO:root:Using photodiode signal for sample on time
+1
+1
+pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+INFO:root:Using photodiode signal for sample on time
+1
+1
+pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+INFO:root:Using photodiode signal for sample on time
+1
+1
+pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+INFO:root:Using photodiode signal for sample on time
+DEBUG:root:amp-E-004
+DEBUG:root:amp-E-006
+DEBUG:root:amp-E-002
+DEBUG:root:amp-E-000
+DEBUG:root:amp-D-031
+DEBUG:root:amp-D-030
+DEBUG:root:amp-E-001
+/braintree/data2/active/users/sgouldin/projects/normalizers/monkeys/pico/intanproc
+DEBUG:root:pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+1
+1
+pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+INFO:root:Using photodiode signal for sample on time
+DEBUG:root:amp-E-008
+/braintree/data2/active/users/sgouldin/projects/normalizers/monkeys/pico/intanproc
+DEBUG:root:pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+1
+1
+pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+INFO:root:Using photodiode signal for sample on time
+1
+1
+pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+INFO:root:Using photodiode signal for sample on time
+1
+1
+pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+INFO:root:Using photodiode signal for sample on time
+1
+1
+pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+INFO:root:Using photodiode signal for sample on time
+1
+1
+pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+INFO:root:Using photodiode signal for sample on time
+DEBUG:root:amp-F-002
+1
+1
+pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+INFO:root:Using photodiode signal for sample on time
+1
+1
+pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+INFO:root:Using photodiode signal for sample on time
+DEBUG:root:amp-F-005
+DEBUG:root:amp-F-006
+DEBUG:root:amp-F-003
+DEBUG:root:amp-F-001
+DEBUG:root:amp-F-008
+DEBUG:root:amp-F-013
+1
+1
+pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+INFO:root:Using photodiode signal for sample on time
+DEBUG:root:amp-F-012
+/braintree/data2/active/users/sgouldin/projects/normalizers/monkeys/pico/intanproc
+DEBUG:root:pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+/braintree/data2/active/users/sgouldin/projects/normalizers/monkeys/pico/intanproc
+DEBUG:root:pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+1
+1
+pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+INFO:root:Using photodiode signal for sample on time
+1
+1
+pico_robustness_d0_v7_chong_230724_110234_mwk.csv, pico_robustness_guy_d0_v7_chong_230724_110235
+INFO:root:Using photodiode signal for sample on time
+DEBUG:root:amp-B-018
+DEBUG:root:amp-E-007
